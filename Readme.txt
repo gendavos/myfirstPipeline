@@ -1,5 +1,6 @@
 C:\tools\spielwiese\gitPlay\Readme.txt
-#master modified readme.txt
+#22:35 Uhr master modified readme.txt
+#22:30 Uhr master modified readme.txt 
 
 /*
 Projekt spielwiese/gitPlay, Readme.txt
