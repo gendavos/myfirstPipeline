@@ -1,7 +1,11 @@
 #!/bin/bash
+
 for ((i=1;i<=$1;i++))
 do
-echo "commit fileRain$i" >> fileRain$i.txt
-git add fileRain$i.txt
+date >> Gile$i.txt
+echo "commit GileRainer$i" >> Gile$i.txt
+git commit -am "commit GileRain$i"
 done
-git commit -am ""commit fileRain$i"
+
+set abc=`date`
+date >> fileRai
