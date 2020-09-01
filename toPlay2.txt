@@ -1,0 +1,224 @@
+/*
+Projekt spielwiese/gitPlay, toPlay02.txt
+*/
+{
+    "project" : "spielwiese/gitPlay",
+    "file" : "toPlay02.txt",
+    "von wann" : "Sa, 29.08.2020",
+    "bis wann" : "Sa, 29.08.2020",
+    "wo" : "Herrsching am Ammersee, Oberbayern",
+    "wer" : "gendavos, Rainer Braun",
+    "was" : "Aufbau Git Repo mit verschiedenen Feature Branches",
+	"was one added" : "toPlay02.txt",
+	"was two added" : "two",
+    "kostet" : "> 1 Euro"
+}
+
+{
+    "project" : "spielwiese/gitPlay/surfen",
+    "parkplatz" : "reservieren",
+    "von wann" : "Mi, 26.08.2020",
+    "bis wann" : "Mi, 26.08.2020",
+    "wo" : "Herrsching am Ammersee, Oberbayern",
+    "revier" : "Rieder Eck",
+    "wer" : "gendavos@web.de, Rainer",
+    "wer" : "outback123@web.de, Gisela",
+    "was" : "Starkwind Surfen Rieder Eck",
+    "wetter" : "Starkwind 5,5 bis 8,5 bft",
+	"was one added" : "",
+	"segel" : "naish 1994, 4,3",
+	"segel" : "gunsails 4,6",
+	"segel" : "gunsails 5,3",
+    "kostet" : "viel"
+	"intern" : "2020-08-29 14:46:42.000Z"
+}
+ISODate("2020-08-29 14:46:42.000Z")
+
+
+{
+    "_id" : ObjectId("5f4a6f7bde381842a888159c"),
+    "project" : "spielwiese/gitPlay/surfen",
+    "parkplatz" : "reservieren",
+    "von wann" : "Mi, 26.08.2020",
+    "bis wann" : "Mi, 26.08.2020",
+    "wo" : "Herrsching am Ammersee, Oberbayern",
+    "revier" : "Rieder Eck",
+    "wer" : "gendavos@web.de, Rainer",
+    "wer" : "outback123@web.de, Gisela",
+    "was" : "Starkwind Surfen Rieder Eck",
+    "wetter" : "Starkwind 5,5 bis 8,5 bft",
+    "was one added" : "",
+    "segel" : "naish 1994, 4,3",
+    "segel" : "gunsails 4,6",
+    "segel" : "gunsails torro 2020 5,0",
+    "segel" : "gunsails torro 2019 5,3",
+    "segel" : "gunsails torro 2012 6,0",
+    "segel" : "gunsails torro 2014 6,3",
+    "segel" : "gunsails rapid 2020 6,7",
+    "segel" : "gunsails rapid 2020 7,2",
+    "segel" : "neil pryde hellcat 2017 7,2",
+    "segel" : "gunsails cannonball 2012 8,6",
+    "segel" : "north sails s-type 2015 7,8",
+    "segel" : "neil pryde v8 2017 8,7",
+    "mast" : "north sails 4,00",
+    "mast" : "north sails 30% 4,30",
+    "mast" : "north sails 75% schwarz 4,60",
+    "mast" : "north sails 75% weiss 4,60",
+    "mast" : "north sails 80% 4,80",
+    "mast" : "neil pryde 80% 4,60",
+    "mast" : "neil pryde 90% 4,90",
+    "mast" : "neil pryde 90% 5,20",
+    "mast" : "gaastra 80% 4,30",
+    "mast" : "point 7 90% 4,30",
+    "mast" : "gunsails select 100% 4,60",
+    "gabelbaum" : "north sails klein rot 160 - 190",
+    "gabelbaum" : "north sails klein 160 - 190",
+    "gabelbaum" : "north sails Gisela mittel B+ 170 - 220",
+    "gabelbaum" : "north sails 2015 Rainer groß Platinum 190 - 250",
+    "gabelbaum" : "severne 2020 Enigma Race Rainer groß 190 - 240",
+    "surfboard" : "RRD Avantride 2005/2007 106 liter",
+    "surfboard" : "RRD Freestyle Wave 2006 104 liter",
+    "surfboard" : "RRD Freestyle Wave 2017 90 liter",
+	
+    "kostet" : "viel",
+    "intern" : "2020-08-29 14:46:42.000Z"
+}
+
+   "know how arts" : [ 
+        {
+            "arts" : "Java8",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "Java11",
+            "status" : "available"
+        }, 
+        {
+            "arts" : "Java13",
+            "status" : "404"
+        }, 
+        {
+            "arts" : "JavaEE",
+            "status" : "404"
+        }, 
+        {
+            "arts" : "JEE",
+            "status" : "404"
+        }, 
+        {
+            "arts" : "J2EE",
+            "status" : "404"
+        }, 
+        {
+            "arts" : "Spring",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "Spring.io",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "Spring Data",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "Spring JMS",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "Spring Boot",
+            "status" : "404"
+        }, 
+        {
+            "arts" : "Spring Batch",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "JMS",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "ActiveMQ",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "RabbitMQ",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "Apache Kafka",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "Hibernate4",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "Hibernate5",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "SQL",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "MySQL",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "Oracle",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "Postgresql",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "DB2",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "NoSQL",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "Mongo DB",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "CouchDB",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "Apache Camel",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "BPM",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "AWS",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "Kibana Lens",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "Docker",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "Istio",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "Kubernetes",
+            "status" : "200"
+        }, 
+        {
+            "arts" : "MicroProfile",
+            "status" : "200"
+        }
+    ]

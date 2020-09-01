@@ -1,0 +1,15 @@
+/*
+Projekt spielwiese/gitPlay, file1-Added.txt
+*/
+{
+    "project" : "spielwiese/gitPlay",
+    "file" : "file1-Added.txt",
+    "von wann" : "Sa, 29.08.2020",
+    "bis wann" : "Sa, 29.08.2020",
+    "wo" : "Herrsching am Ammersee, Oberbayern",
+    "wer" : "gendavos, Rainer Braun",
+    "was" : "Aufbau Git Repo mit verschiedenen Feature Branches",
+	"was one added" : "file1-Added",
+	"was two added" : "two",
+    "kostet" : "> 1 Euro"
+}
